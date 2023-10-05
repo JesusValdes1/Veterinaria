@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Veterinaria</string>
+    <string name="name">nombre</string>
+    <string name="edad">edad</string>
+    <string name="dog">Perro</string>
+    <string name="cat">Gato</string>
+    <string name="bunny">Conejo</string>
+    <string name="servicio">Servicio a tu mascota</string>
+    <string name="rabia">Rabia</string>
+    <string name="parvo">Parvo</string>
+    <string name="Lepto">Leptospirosis</string>
+    <string name="despa">Desparasitar</string>
+    <string name="exam">Examen de sangre</string>
+    <string name="aplica">Aplicar vacuna</string>
+    <string name="corte">Corte de pelo</string>
+    <string name="cobro">Cobro Total $</string>
+    <string name="salir">Salir</string>
+    <string name="enviar">Enviar</string>
+</resources>
